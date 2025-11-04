@@ -77,7 +77,7 @@ const Register = () => {
             });
     };
 
-
+// osr 
     return (
         <section className="min-h-screen flex flex-col md:flex-row items-center justify-center bg-gradient-to-b from-[#f6e0c7] via-[#e8c7a4] to-[#d3a473] px-6 sm:px-10 py-12">
             <div className="w-full md:w-1/2 bg-[#0d0d0d]/80 backdrop-blur-md rounded-3xl shadow-2xl p-8 sm:p-10 max-w-md mx-auto mb-10 md:mb-0 md:mr-10" data-aos="zoom-in" data-aos-duration="1000">
