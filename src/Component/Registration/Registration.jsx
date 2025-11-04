@@ -76,7 +76,7 @@ const Register = () => {
                 toast.error("Google registration failed!");
             });
     };
-// riri 
+
 
     return (
         <section className="min-h-screen flex flex-col md:flex-row items-center justify-center bg-gradient-to-b from-[#f6e0c7] via-[#e8c7a4] to-[#d3a473] px-6 sm:px-10 py-12">
